@@ -1,0 +1,4 @@
+#Ignoramos los html
+
+*.html
+
